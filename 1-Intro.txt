@@ -1,0 +1,28 @@
+Note js:
+-> Enviroment to run js outside the Browser
+-> Its Built on Chrome V8 Js Engine...
+-> Big Community Behind The Node.js
+-> We Can Built An Full Stack Website Using Node.js.
+
+<--Pre Request-->
+
+Before Starting Node.js We Should Know Some Basic Css,HTML,JavaScript..(ES6)
+Also CallBack,Promises,Async-Await.
+
+
+<--Different Between Node.js And Browser-->
+
+https://slid-capture.s3.ap-northeast-2.amazonaws.com/public/capture_images/4bcdf646bcf344469e3518c4255c80da/f0fd8031-9924-49c8-bcfb-db9307048b32.jpg
+
+
+<--Installing Node.js-->
+
+https://nodejs.org/en/
+
+-> Download An LTS Verison And Install In Your Device...
+-> Cross Check If Its Installed Properly In CommandPromt Using node --v Command
+
+
+
+
+
